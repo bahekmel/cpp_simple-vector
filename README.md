@@ -1,2 +1,5 @@
-# cpp-simple-vector
-Финальный проект: собственный контейнер вектор
+# Simple Vector
+
+Custom container, similar to std::vector.
+
+C++ version: 17 or above
